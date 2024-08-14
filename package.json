@@ -10,7 +10,7 @@
     "dev": "tsx src/index.ts"
   },
   "author": "Dinislam",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "devDependencies": {
     "@eslint/js": "^9.9.0",
