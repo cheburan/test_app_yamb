@@ -1,6 +1,6 @@
 # Tester for Ya-Micro-Batcher
 
-This project is a test application for the (`ya-micro-batcher`)[https://www.npmjs.com/package/ya-micro-batcher] npm package. It demonstrates how to use the `YaMicroBatcher` class to batch process jobs efficiently.
+This project is a test application for the [`ya-micro-batcher`](https://www.npmjs.com/package/ya-micro-batcher) npm package. It demonstrates how to use the `YaMicroBatcher` class to batch process jobs efficiently.
 
 ## Project Structure
 
